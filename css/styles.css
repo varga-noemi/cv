@@ -1,0 +1,41 @@
+body {
+  background-color: #E8DED2;
+}
+
+hr {
+  border-color: #5EAAA8;
+  border-width: thick;
+  border-style: dotted none none;
+  width: 5%;
+}
+
+h1 {
+  color: #056676;
+  font-variant: small-caps;
+}
+
+h2 {
+  color: #5EAAA8;
+}
+
+h3 {
+  color: #5EAAA8;
+}
+
+.table {
+  table-layout: auto;
+  width: 50%;
+}
+
+.table td {
+  width: 10%;
+  padding: 0.5em;
+}
+
+a {
+  color: #056676;
+}
+
+a:visited {
+  color: #056676;
+}
